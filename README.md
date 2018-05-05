@@ -5,8 +5,9 @@ This work is forked from fabulous [neuraltalk2](https://github.com/karpathy/neur
 " accepted by IEEE International Conference on Image Processing’18
 ### Overview 
  
-![overview](https://github.com/Roffy-fang/word-level-attention/coco/fig1.jpg)
- 
+![overview](https://github.com/Roffy-fang/word-level-attention/blob/master/coco/fig1.jpg)
+### Overview 
+Regarding the two folders, coco-cation and coco, and other additional repositories, please refer to the project of [neuraltalk2](https://github.com/karpathy/neuraltalk2)
 ### License
 
 BSD License.
