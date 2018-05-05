@@ -6,7 +6,7 @@ This work is forked from fabulous [neuraltalk2](https://github.com/karpathy/neur
 ### Overview 
  
 ![overview](https://github.com/Roffy-fang/word-level-attention/blob/master/coco/fig1.jpg)
-### Overview 
+### Note
 Regarding the two folders, coco-cation and coco, and other additional repositories, please refer to the project of [neuraltalk2](https://github.com/karpathy/neuraltalk2)
 ### License
 
