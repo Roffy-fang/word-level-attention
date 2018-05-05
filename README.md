@@ -5,7 +5,7 @@ This work is forked from fabulous [neuraltalk2](https://github.com/karpathy/neur
 " accepted by IEEE International Conference on Image Processing’18
 ### Overview 
  
-![overview](https://github.com/Roffy-fang/word-level-attention/vis/fig1.jpg)
+![overview](https://github.com/Roffy-fang/word-level-attention/coco/fig1.jpg)
  
 ### License
 
